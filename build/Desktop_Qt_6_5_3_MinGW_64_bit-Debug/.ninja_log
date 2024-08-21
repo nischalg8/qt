@@ -1,0 +1,46 @@
+# ninja log v6
+920	7285	7459471827052804	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	b37abd2ce8e9d4c8
+24	184	7459478602380194	untitled_autogen/timestamp	c49b20072e769072
+24	184	7459478602380194	untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+24	184	7459478602380194	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	c49b20072e769072
+185	3526	7459478603991472	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d972a031f44c4f1
+24	184	7459478602380194	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+930	7294	7459471827154665	CMakeFiles/untitled.dir/main.cpp.obj	9f3c139b552ae98
+3526	3746	7459478637404587	untitled.exe	315abac1ffa332be
+190	3378	7459478604040144	CMakeFiles/untitled.dir/nextpage.cpp.obj	f665b18db8a63dd7
+30	197	7459480402907918	untitled_autogen/timestamp	c49b20072e769072
+30	197	7459480402907918	untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+30	197	7459480402907918	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	c49b20072e769072
+30	197	7459480402907918	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+204	3059	7459480404744839	CMakeFiles/untitled.dir/nextpage.cpp.obj	f665b18db8a63dd7
+198	3212	7459480404684063	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d972a031f44c4f1
+3212	3436	7459480434834521	untitled.exe	315abac1ffa332be
+23	180	7459481313126225	untitled_autogen/timestamp	c49b20072e769072
+23	180	7459481313126225	untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+23	180	7459481313126225	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	c49b20072e769072
+23	180	7459481313126225	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+189	2872	7459481314916264	CMakeFiles/untitled.dir/nextpage.cpp.obj	f665b18db8a63dd7
+181	3095	7459481314855357	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d972a031f44c4f1
+3095	3350	7459481343991266	untitled.exe	315abac1ffa332be
+10	780	7459488822620736	untitled_autogen/timestamp	c49b20072e769072
+10	780	7459488822620736	untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+10	780	7459488822620736	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	c49b20072e769072
+10	780	7459488822620736	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+785	5072	7459488823269354	CMakeFiles/untitled.dir/main.cpp.obj	9f3c139b552ae98
+781	5082	7459488823235824	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	b37abd2ce8e9d4c8
+792	5390	7459488823342783	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d972a031f44c4f1
+5072	7091	7459488866144287	CMakeFiles/untitled.dir/nextpage.cpp.obj	f665b18db8a63dd7
+20	471	7459489098422199	untitled_autogen/timestamp	c49b20072e769072
+20	471	7459489098422199	untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+20	471	7459489098422199	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	c49b20072e769072
+20	471	7459489098422199	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+472	5576	7459489099014627	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	b37abd2ce8e9d4c8
+28	585	7459489278145490	untitled_autogen/timestamp	c49b20072e769072
+28	585	7459489278145490	untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+28	585	7459489278145490	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	c49b20072e769072
+28	585	7459489278145490	C:/Users/Brothers/OneDrive/Desktop/QT just like her/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	c49b20072e769072
+586	5069	7459489278916856	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	b37abd2ce8e9d4c8
+591	5121	7459489278960364	CMakeFiles/untitled.dir/main.cpp.obj	9f3c139b552ae98
+595	5246	7459489279005302	CMakeFiles/untitled.dir/mainwindow.cpp.obj	7d972a031f44c4f1
+5069	7723	7459489323744958	CMakeFiles/untitled.dir/nextpage.cpp.obj	f665b18db8a63dd7
+7723	7971	7459489350266733	untitled.exe	315abac1ffa332be
