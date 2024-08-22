@@ -1,61 +1,78 @@
 # ninja log v6
-5	834	7460221256052125	untitled_autogen/timestamp	be5beabe5c0aad0a
-5	834	7460221256052125	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-5	834	7460221256052125	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
-5	834	7460221256052125	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-844	2947	7460221257296562	CMakeFiles/untitled.dir/main.cpp.obj	8dc1913a38ac0f36
-838	2948	7460221257241073	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	ca7f95ed54d32fdf
-863	3016	7460221257492948	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
-851	3257	7460221257377194	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
-3257	3622	7460221281435627	untitled.exe	33aab8994cd9247a
-54	931	7460245452214583	untitled_autogen/timestamp	be5beabe5c0aad0a
-54	931	7460245452214583	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-54	931	7460245452214583	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
-54	931	7460245452214583	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-940	3301	7460245454464791	CMakeFiles/untitled.dir/main.cpp.obj	8dc1913a38ac0f36
 932	3307	7460245454389494	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	ca7f95ed54d32fdf
-963	3335	7460245454700705	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
-951	3600	7460245454575262	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
-3601	3887	7460245481076546	untitled.exe	33aab8994cd9247a
-53	428	7460246413920628	untitled_autogen/timestamp	be5beabe5c0aad0a
-53	428	7460246413920628	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-53	428	7460246413920628	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
-53	428	7460246413920628	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-435	2243	7460246417747243	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
-429	2464	7460246417686579	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
-2464	2688	7460246438041125	untitled.exe	33aab8994cd9247a
-61	422	7460250553744290	untitled_autogen/timestamp	be5beabe5c0aad0a
-61	422	7460250553744290	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-61	422	7460250553744290	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
-61	422	7460250553744290	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-429	2561	7460250557430996	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
-423	2689	7460250557373330	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
-2689	2940	7460250580032865	untitled.exe	33aab8994cd9247a
-62	467	7460251310089203	untitled_autogen/timestamp	be5beabe5c0aad0a
-62	467	7460251310089203	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-62	467	7460251310089203	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
-62	467	7460251310089203	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-471	2537	7460251314181040	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
-468	2668	7460251314141030	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
-2669	2898	7460251336157224	untitled.exe	33aab8994cd9247a
-52	334	7460254622203288	untitled_autogen/timestamp	be5beabe5c0aad0a
-52	334	7460254622203288	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-52	334	7460254622203288	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
-52	334	7460254622203288	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-340	2106	7460254625079799	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
-334	2259	7460254625020085	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
-2259	2517	7460254644261958	untitled.exe	33aab8994cd9247a
-49	401	7460255139375885	untitled_autogen/timestamp	be5beabe5c0aad0a
-49	401	7460255139375885	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-49	401	7460255139375885	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
-49	401	7460255139375885	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-413	2488	7460255143012145	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
-403	2678	7460255142919205	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
-2678	2931	7460255165659944	untitled.exe	33aab8994cd9247a
-50	401	7460255789623131	untitled_autogen/timestamp	be5beabe5c0aad0a
-50	401	7460255789623131	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-50	401	7460255789623131	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
-50	401	7460255789623131	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
-410	2334	7460255793219117	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
-402	2473	7460255793143414	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
-2473	2765	7460255813846090	untitled.exe	33aab8994cd9247a
+52	350	7460365763561521	untitled_autogen/timestamp	be5beabe5c0aad0a
+52	350	7460365763561521	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+52	350	7460365763561521	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+52	350	7460365763561521	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+940	3301	7460245454464791	CMakeFiles/untitled.dir/main.cpp.obj	8dc1913a38ac0f36
+350	2462	7460365766534204	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
+355	2309	7460365766589440	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+2462	2690	7460365787657609	untitled.exe	33aab8994cd9247a
+43	352	7460366695037548	untitled_autogen/timestamp	be5beabe5c0aad0a
+43	352	7460366695037548	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+43	352	7460366695037548	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+43	352	7460366695037548	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+359	2097	7460366698199151	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+353	2181	7460366698131088	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
+2181	2403	7460366716413694	untitled.exe	33aab8994cd9247a
+73	506	7460367377439732	untitled_autogen/timestamp	be5beabe5c0aad0a
+73	506	7460367377439732	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+73	506	7460367377439732	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+73	506	7460367377439732	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+517	2827	7460367381882358	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+508	3028	7460367381784577	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
+3028	3278	7460367406990957	untitled.exe	33aab8994cd9247a
+58	462	7460367506016952	untitled_autogen/timestamp	be5beabe5c0aad0a
+58	462	7460367506016952	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+58	462	7460367506016952	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+58	462	7460367506016952	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+468	2636	7460367510116272	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+463	2926	7460367510070521	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
+2926	3172	7460367534700588	untitled.exe	33aab8994cd9247a
+53	1648	7460386378775569	untitled_autogen/timestamp	be5beabe5c0aad0a
+53	1648	7460386378775569	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+53	1648	7460386378775569	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+53	1648	7460386378775569	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+1649	3405	7460386385525909	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	ca7f95ed54d32fdf
+1661	3405	7460386385645579	CMakeFiles/untitled.dir/main.cpp.obj	8dc1913a38ac0f36
+1668	3410	7460386385715603	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+19	164	7460387792496416	untitled_autogen/timestamp	be5beabe5c0aad0a
+19	164	7460387792496416	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+19	164	7460387792496416	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+19	164	7460387792496416	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+168	2573	7460387793985320	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+24	170	7460388783910048	untitled_autogen/timestamp	be5beabe5c0aad0a
+24	170	7460388783910048	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+24	170	7460388783910048	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+24	170	7460388783910048	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+173	1709	7460388785400035	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+24	478	7460391077759432	untitled_autogen/timestamp	be5beabe5c0aad0a
+24	478	7460391077759432	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+24	478	7460391077759432	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+24	478	7460391077759432	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+482	2698	7460391078429412	CMakeFiles/untitled.dir/main.cpp.obj	8dc1913a38ac0f36
+489	2698	7460391078499418	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+479	2774	7460391078389420	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	ca7f95ed54d32fdf
+22	200	7460392627843500	untitled_autogen/timestamp	be5beabe5c0aad0a
+22	200	7460392627843500	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+22	200	7460392627843500	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+22	200	7460392627843500	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+201	2017	7460392629633501	CMakeFiles/untitled.dir/main.cpp.obj	8dc1913a38ac0f36
+207	2020	7460392629693718	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+18	133	7460394216860422	untitled_autogen/timestamp	be5beabe5c0aad0a
+18	133	7460394216860422	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+18	133	7460394216860422	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+18	133	7460394216860422	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+136	1420	7460394218040420	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+18	121	7460394347884354	untitled_autogen/timestamp	be5beabe5c0aad0a
+18	121	7460394347884354	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+18	121	7460394347884354	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+18	121	7460394347884354	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+124	1421	7460394348943074	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+18	190	7460396777621403	untitled_autogen/timestamp	be5beabe5c0aad0a
+18	190	7460396777621403	untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+18	190	7460396777621403	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	be5beabe5c0aad0a
+18	190	7460396777621403	D:/BCT/BCT 2nd sem/projectcpp/qt/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	be5beabe5c0aad0a
+193	1383	7460396779381309	CMakeFiles/untitled.dir/nextpage.cpp.obj	aeef451d82728a8c
+191	1531	7460396779351310	CMakeFiles/untitled.dir/mainwindow.cpp.obj	995d6765f3909802
+1531	1702	7460396792761018	untitled.exe	33aab8994cd9247a
