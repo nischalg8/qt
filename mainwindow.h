@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-
+#include <QLabel>
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
@@ -19,9 +19,9 @@ public:
 
 
 private slots:
-    void on_pushButton_clicked();
+    void button_clicked();
 
-    void on_lineEdit_cursorPositionChanged(int arg1, int arg2);
+
 
 private:
     Ui::MainWindow *ui;
