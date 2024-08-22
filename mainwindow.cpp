@@ -20,3 +20,15 @@ MainWindow::~MainWindow()
 
 
 
+
+void MainWindow::on_pushButton_clicked()
+{
+
+}
+
+
+void MainWindow::on_lineEdit_cursorPositionChanged(int arg1, int arg2)
+{
+
+}
+
