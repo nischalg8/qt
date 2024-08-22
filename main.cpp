@@ -1,4 +1,5 @@
 #include "mainwindow.h"
+#include "nextpage.h"
 
 #include <QApplication>
 #include <QLabel>

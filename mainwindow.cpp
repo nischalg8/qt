@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
 #include <QLabel> // Corrected header include
+#include "nextpage.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -23,11 +24,12 @@ void MainWindow::button_clicked()
 
     if (uName == "admin" && uPw == "admin")
     {
-        ui->label_3->setText("Login Successful");
-        ui->label_3->setStyleSheet("color: green; font-size: 18px;");
+        nextpage *nextPage = new nextpage();
+        nextPage->show();
+        this->close();
     }
     else
-    {x
+    {
         ui->label_3->setText("Try Again");
         ui->label_3->setStyleSheet("color: red; font-size: 18px;");
     }
