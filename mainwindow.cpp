@@ -2,6 +2,7 @@
 #include "./ui_mainwindow.h"
 #include <QLabel> // Corrected header include
 #include "nextpage.h"
+#include "doctorlist.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -10,6 +11,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
     // Using the new connect syntax
     connect(ui->pushButton, &QPushButton::clicked, this, &MainWindow::button_clicked);
+
 }
 
 MainWindow::~MainWindow()
@@ -24,8 +26,8 @@ void MainWindow::button_clicked()
 
     if (uName == "admin" && uPw == "admin")
     {
-        nextpage *nextPage = new nextpage();
-        nextPage->show();
+        doctorlist *doctorList = new doctorlist();
+        doctorList->show();
         this->close();
     }
     else

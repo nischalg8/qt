@@ -21,8 +21,6 @@ public:
 private slots:
     void button_clicked();
 
-
-
 private:
     Ui::MainWindow *ui;
 };

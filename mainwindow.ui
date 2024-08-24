@@ -80,6 +80,9 @@ color: black;
     <property name="text">
      <string/>
     </property>
+    <property name="echoMode">
+     <enum>QLineEdit::EchoMode::Password</enum>
+    </property>
     <property name="placeholderText">
      <string>password</string>
     </property>
@@ -128,7 +131,7 @@ background-color: #004085;
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/LOQ/Downloads/med_APPOINT__1___1_-removebg-preview.png</pixmap>
+     <pixmap>../../../../../LOQ/Downloads/med_APPOINT__1___1_-removebg-preview.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
