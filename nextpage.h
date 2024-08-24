@@ -15,6 +15,9 @@ public:
     explicit nextpage(QWidget *parent = nullptr);
     ~nextpage();
 
+private slots:
+    void on_pushButton_8_clicked();
+
 private:
     Ui::nextpage *ui;
 };

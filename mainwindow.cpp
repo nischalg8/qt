@@ -26,8 +26,8 @@ void MainWindow::button_clicked()
 
     if (uName == "admin" && uPw == "admin")
     {
-        doctorlist *doctorList = new doctorlist();
-        doctorList->show();
+        nextpage *nextPage = new nextpage();
+        nextPage -> show();
         this->close();
     }
     else
