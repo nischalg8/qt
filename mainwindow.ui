@@ -35,22 +35,6 @@ opacity: 0.6;
 }</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QLabel" name="label">
-    <property name="geometry">
-     <rect>
-      <x>540</x>
-      <y>160</y>
-      <width>201</width>
-      <height>111</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap>../../../../LOQ/Downloads/med_APPOINT__1___1_-removebg-preview.png</pixmap>
-    </property>
-   </widget>
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
@@ -196,7 +180,7 @@ font-size: 15px;
     <property name="geometry">
      <rect>
       <x>540</x>
-      <y>150</y>
+      <y>180</y>
       <width>201</width>
       <height>131</height>
      </rect>
@@ -211,7 +195,7 @@ box-shadow: 0px 4px 6px rgba(255, 214, 204, 0.5); </string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../nischal/qt/images/med_APPOINT__1___1_-removebg-preview.png</pixmap>
+     <pixmap resource="resources.qrc">:/resources/images/medappoint logo.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
@@ -248,6 +232,8 @@ box-shadow: 0px 4px 6px rgba(255, 214, 204, 0.5); </string>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
- <resources/>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
  <connections/>
 </ui>
